@@ -1,0 +1,11 @@
+D:\Study\4kurs\Технологии распределённого реестра\ATM\AtmTerminal\AtmTerminal\bin\Debug\AtmTerminal.exe.config
+D:\Study\4kurs\Технологии распределённого реестра\ATM\AtmTerminal\AtmTerminal\bin\Debug\AtmTerminal.exe
+D:\Study\4kurs\Технологии распределённого реестра\ATM\AtmTerminal\AtmTerminal\bin\Debug\AtmTerminal.pdb
+D:\Study\4kurs\Технологии распределённого реестра\ATM\AtmTerminal\AtmTerminal\obj\Debug\AtmTerminal.csprojAssemblyReference.cache
+D:\Study\4kurs\Технологии распределённого реестра\ATM\AtmTerminal\AtmTerminal\obj\Debug\AtmTerminal.Form1.resources
+D:\Study\4kurs\Технологии распределённого реестра\ATM\AtmTerminal\AtmTerminal\obj\Debug\AtmTerminal.Properties.Resources.resources
+D:\Study\4kurs\Технологии распределённого реестра\ATM\AtmTerminal\AtmTerminal\obj\Debug\AtmTerminal.csproj.GenerateResource.cache
+D:\Study\4kurs\Технологии распределённого реестра\ATM\AtmTerminal\AtmTerminal\obj\Debug\AtmTerminal.csproj.CoreCompileInputs.cache
+D:\Study\4kurs\Технологии распределённого реестра\ATM\AtmTerminal\AtmTerminal\obj\Debug\AtmTerminal.exe
+D:\Study\4kurs\Технологии распределённого реестра\ATM\AtmTerminal\AtmTerminal\obj\Debug\AtmTerminal.pdb
+D:\Study\4kurs\Технологии распределённого реестра\ATM\AtmTerminal\AtmTerminal\obj\Debug\AtmTerminal.Form2.resources

@@ -1,0 +1,6 @@
+D:\Study\4kurs\Технологии распределённого реестра\ATM\AtmServer\AtmServer\bin\Release\AtmServer.exe.config
+D:\Study\4kurs\Технологии распределённого реестра\ATM\AtmServer\AtmServer\bin\Release\AtmServer.exe
+D:\Study\4kurs\Технологии распределённого реестра\ATM\AtmServer\AtmServer\bin\Release\AtmServer.pdb
+D:\Study\4kurs\Технологии распределённого реестра\ATM\AtmServer\AtmServer\obj\Release\AtmServer.csproj.CoreCompileInputs.cache
+D:\Study\4kurs\Технологии распределённого реестра\ATM\AtmServer\AtmServer\obj\Release\AtmServer.exe
+D:\Study\4kurs\Технологии распределённого реестра\ATM\AtmServer\AtmServer\obj\Release\AtmServer.pdb
